@@ -1,1 +1,16 @@
-# KY-23-Assignment3
+# KY'23-Assignment3
+## To-do:
+* You need to create a carousel/image gallery from scratch.[KY-2020 CA Portal](https://ky-2020.netlify.app/)
+* The CA portal must have Signin/SignUp Page,ContactUs , Duties and benefit section.
+* It will be a great addition if the smooth scrolling, glass morphism and good animations are used
+*Use ReactJs for this task
+*Refer [Framer motion](https://www.framer.com/motion/), [React motion](https://www.npmjs.com/package/react-motion) etc. for animations.
+
+## How to submit
+* Fork this repo.
+* Clone it to your local, use any IDE of your choice and, 
+* Add/create the files you want with the **optimized size images** (use any online image size optimizer) and begin with your code.
+* Commit your changes and push your code by making a pull request.
+* Deploy your code on Github pages, netlify, or any other web hosting solution.
+* You must complete this task before 10 Aug at 11:59 pm IST.
+* Judging criteria will be your custom animation, bug-free, optimized code, with no commits made after the deadline has reached. The work's uniqueness will also be appreciated; feel free to add a custom scrollbar, custom cursor, preloader, etc, to stand out from others.
