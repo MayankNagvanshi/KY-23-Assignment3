@@ -1,6 +1,6 @@
 # KY'23-Assignment3
 ## To-do:
-* You need to create a carousel/image gallery from scratch.[KY-2020 CA Portal](https://ky-2020.netlify.app/)
+* You need to create a carousel/image gallery from scratch. [KY-2020 CA Portal](https://ky-2020.netlify.app/)
 * The CA portal must have Signin/SignUp Page,ContactUs , Duties and benefit section.
 * It will be a great addition if smooth scrolling, glass morphism and good animations are used
 * Use ReactJs for this task
